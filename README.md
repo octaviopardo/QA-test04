@@ -1,16 +1,16 @@
 # My Font
 
-[![][Fontbakery]](https://googlefonts.github.io/Unified-Font-Repository/fontbakery-report.html)
-[![][Universal]](https://googlefonts.github.io/Unified-Font-Repository/fontbakery-report.html)
-[![][GF Profile]](https://googlefonts.github.io/Unified-Font-Repository/fontbakery-report.html)
-[![][Outline Correctness]](https://googlefonts.github.io/Unified-Font-Repository/fontbakery-report.html)
-[![][Shaping]](https://googlefonts.github.io/Unified-Font-Repository/fontbakery-report.html)
+[![][Fontbakery]](https://octaviopardo.github.io/QA-test04/fontbakery-report.html)
+[![][Universal]](https://octaviopardo.github.io/QA-test04/fontbakery-report.html)
+[![][GF Profile]](https://octaviopardo.github.io/QA-test04/fontbakery-report.html)
+[![][Outline Correctness]](https://octaviopardo.github.io/QA-test04/fontbakery-report.html)
+[![][Shaping]](https://octaviopardo.github.io/QA-test04/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2FUnified-Font-Repository%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2FUnified-Font-Repository%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2FUnified-Font-Repository%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2FUnified-Font-Repository%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2FUnified-Font-Repository%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foctaviopardo%2FQA-test04%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foctaviopardo%2FQA-test04%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foctaviopardo%2FQA-test04%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foctaviopardo%2FQA-test04%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foctaviopardo%2FQA-test04%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
 
